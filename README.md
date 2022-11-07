@@ -6,11 +6,11 @@
 
 </div>
 
-[Github URL](https://github.com/aescobar73/E-commerce-Backend-Challenge)
+[Github URL](https://github.com/aescobar73/Personal-Portfolio)
 
 <br>
 
-[Demo Video](https://drive.google.com/file/d/1CXuD2yzuQuN1w60ZDLoy-Kh3OHYZWhYK/view)
+[Demo Video]()
 
 
 <br>
@@ -32,23 +32,37 @@
 ## Accepted Criteria
 <br>
 
-        GIVEN a functional Express.js API
-        WHEN I add my database name, MySQL username, and MySQL password to an environment variable file
-        THEN I am able to connect to a database using Sequelize
-        WHEN I enter schema and seed commands
-        THEN a development database is created and is seeded with test data
-        WHEN I enter the command to invoke the application
-        THEN my server is started and the Sequelize models are synced to the MySQL database
-        WHEN I open API GET routes in Insomnia Core for categories, products, or tags
-        THEN the data for each of these routes is displayed in a formatted JSON
-        WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
-        THEN I am able to successfully create, update, and delete data in my database
+        GIVEN a single-page application portfolio for a web developer
+        WHEN I load the portfolio
+        THEN I am presented with a page containing a header, a section for content, and a footer
+        WHEN I view the header
+        THEN I am presented with the developer's name and navigation with titles corresponding to different sections of the portfolio
+        WHEN I view the navigation titles
+        THEN I am presented with the titles About Me, Portfolio, Contact, and Resume, and the title corresponding to the current section is highlighted
+        WHEN I click on a navigation title
+        THEN I am presented with the corresponding section below the navigation without the page reloading and that title is highlighted
+        WHEN I load the portfolio the first time
+        THEN the About Me title and section are selected by default
+        WHEN I am presented with the About Me section
+        THEN I see a recent photo or avatar of the developer and a short bio about them
+        WHEN I am presented with the Portfolio section
+        THEN I see titled images of six of the developer’s applications with links to both the deployed applications and the corresponding GitHub repository
+        WHEN I am presented with the Contact section
+        THEN I see a contact form with fields for a name, an email address, and a message
+        WHEN I move my cursor out of one of the form fields without entering text
+        THEN I receive a notification that this field is required
+        WHEN I enter text into the email address field
+        THEN I receive a notification if I have entered an invalid email address
+        WHEN I am presented with the Resume section
+        THEN I see a link to a downloadable resume and a list of the developer’s proficiencies
+        WHEN I view the footer
+        THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter) 
     
 
 
 ## Description
 
-        Our challenge this week is to build the back end for a e-commerce site. We will be using express.js and a sequalize. The following images show a snippet of the routes running successfully via a different post. The attached Demo Video from above, shows all the routes functioning properly.
+        Our challenge this week was to build a portfolio using react.js that included our resume and projects that we have worked on.
         
 
 <br>
@@ -62,46 +76,41 @@
 
 <br>
 
-## Category get all
+## Contact
 
 <br>
 
-![Category](./assets/category-getall.jpg)
-
-<br>
-
-<br>
-
-## Category Update
-
-<br>
-
-![Category](./assets/category-update.jpg)
+![Category](./assets/contact.jpg)
 
 <br>
 
 <br>
 
-## Product By ID
+## Home Page
 
-![Product](./assets/product-byid.jpg)
+<br>
+
+![Category](./assets/home.jpg)
 
 <br>
 
 <br>
 
-## Tag Create
+## Portfolio
+
+![Product](./assets/portfolio.jpg)
 
 <br>
 
-![Tag](./assets/tag-create.jpg)
+<br>
+
+## Resume Download
+
+<br>
+
+![Tag](./assets/resume.jpg)
 
 <br>
 
 <br>
 
-## Tag Delete 
-
-<br>
-
-![Tag](./assets/tag-delete.jpg)

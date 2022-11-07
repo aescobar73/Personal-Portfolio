@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Personal-Portfolio/static/css/main.898bc8ac.css",
+    "main.js": "/Personal-Portfolio/static/js/main.a5cb49bf.js",
+    "static/js/787.62cbec5d.chunk.js": "/Personal-Portfolio/static/js/787.62cbec5d.chunk.js",
+    "static/media/project2.jpg": "/Personal-Portfolio/static/media/project2.7e8e9844a1a329303252.jpg",
+    "static/media/planner.jpg": "/Personal-Portfolio/static/media/planner.47693de504fcb8f775d2.jpg",
+    "static/media/note.png": "/Personal-Portfolio/static/media/note.7852f5367aad182625ec.png",
+    "static/media/textEditor.jpg": "/Personal-Portfolio/static/media/textEditor.15acfa30bf3c6f6bfdfa.jpg",
+    "static/media/resume.jpg": "/Personal-Portfolio/static/media/resume.6d1fe82d02bf4e7e2931.jpg",
+    "static/media/linkedin.jpg": "/Personal-Portfolio/static/media/linkedin.6da25419d1af055bfe5e.jpg",
+    "static/media/generator.jpg": "/Personal-Portfolio/static/media/generator.3342154c15c31235d67e.jpg",
+    "static/media/github.jpg": "/Personal-Portfolio/static/media/github.f68997d72818955f795a.jpg",
+    "static/media/avatar.jpg": "/Personal-Portfolio/static/media/avatar.d3f0bca6161483332cda.jpg",
+    "static/media/scantron.jpg": "/Personal-Portfolio/static/media/scantron.9ce6d7bbeab7c41fc30f.jpg",
+    "static/media/email logo.jpg": "/Personal-Portfolio/static/media/email logo.97f9badfb72a151820ea.jpg",
+    "index.html": "/Personal-Portfolio/index.html",
+    "main.898bc8ac.css.map": "/Personal-Portfolio/static/css/main.898bc8ac.css.map",
+    "main.a5cb49bf.js.map": "/Personal-Portfolio/static/js/main.a5cb49bf.js.map",
+    "787.62cbec5d.chunk.js.map": "/Personal-Portfolio/static/js/787.62cbec5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.898bc8ac.css",
+    "static/js/main.a5cb49bf.js"
+  ]
+}
