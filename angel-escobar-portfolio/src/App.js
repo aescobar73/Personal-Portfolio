@@ -18,7 +18,7 @@ function App() {
 
       
         <li><Link to=''>Home</Link></li>
-        <li><Link to='project'>Projects</Link></li>
+        <li><Link to='project'>Portfolio</Link></li>
         <li><Link to='contact'>Contact</Link></li>
       </nav>
      <Routes>
