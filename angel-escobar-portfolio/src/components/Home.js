@@ -8,7 +8,7 @@ export default function Home () {
 
     <br></br>
     <br></br>
-
+    <h1 class='title'>About Me</h1>
     <p> Greetings, thank you for visiting my portfolio page. I am a graduate of Northwestern Coding bootcamp
             where i received my "Web Developer Certification." I currently reside in Chicago, Illinois.
             Being a programmer has always been an aspiration of mine, and I look forward to work with a company where we
