@@ -22,12 +22,12 @@ function App() {
       <div class='logo'>Angel Escobar</div>
 
       
-        <li><Link to=''>Home</Link></li>
+        <li><Link to='Personal-Portfolio'>Home</Link></li>
         <li><Link to='project'>Portfolio</Link></li>
         <li><Link to='contact'>Contact</Link></li>
       </nav>
      <Routes>
-      <Route path='' element={<Home />} />
+      <Route path='Personal-Portfolio' element={<Home />} />
       <Route path='project' element={<Project />} />
       <Route path='contact' element={<Contact />} />
      </Routes>
