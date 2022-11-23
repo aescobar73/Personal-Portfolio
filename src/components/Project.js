@@ -1,7 +1,7 @@
 import Scantron from '../assets/scantron.jpg'
 import Escape from '../assets/project2.jpg'
 import Text from '../assets/textEditor.jpg'
-import Note from '../assets/note.png'
+import Note from '../assets/foodie.jpg'
 import Planner from '../assets/planner.jpg'
 import Generator from '../assets/generator.jpg'
 
@@ -31,9 +31,9 @@ export default function Project () {
         <br></br>
 
         <div>
-            <h1>Note-Taker</h1>
-            <h3><a href='https://obscure-bayou-71383.herokuapp.com/' target='_blank' rel="noreferrer"><img src={Note} alt='Note Icon'height={250} width={350}/></a></h3>
-            <h4><a href='https://github.com/aescobar73/Note-Taker' target='_blank' rel="noreferrer">Github</a></h4>
+            <h1>Foodie Finder</h1>
+            <h3><a href='https://lala-foodiefinder.herokuapp.com/' target='_blank' rel="noreferrer"><img src={Note} alt='Note Icon'height={250} width={350}/></a></h3>
+            <h4><a href='https://github.com/LALA-Chicago' target='_blank' rel="noreferrer">Github</a></h4>
         </div>
 
         <div>
